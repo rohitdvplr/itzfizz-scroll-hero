@@ -12,8 +12,3 @@ npm install
 npm run dev
 ```
 
-## Deploy (GitHub Pages)
-```bash
-npm run deploy   # builds and pushes dist/ to the gh-pages branch
-```
-Then repo Settings → Pages → Source: `gh-pages` branch, `/ (root)`.
